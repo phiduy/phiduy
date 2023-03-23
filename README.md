@@ -10,7 +10,7 @@
 
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,vue,graphql,tailwind,materialui,figma,docker,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,vue,graphql,tailwind,materialui,figma,docker,azure,git)](https://skillicons.dev)
 
 
 
